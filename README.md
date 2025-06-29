@@ -9,9 +9,9 @@ In this project, we reimplemented our own Vision Transformer (ViT) from scratch,
 **[Implementing Vision Transformer (ViT) from Scratch](https://towardsdatascience.com/implementing-vision-transformer-vit-from-scratch-3e192c6155f0)**
 
 ## Authors
-- **Lila Roig**
-- **Romane Barra**
-
+- **Lila Roig** – Bibliographic research, method design, and code implementation  
+- **Romane Barra** – Poster creation
+  
 ## Professor
 - **V. Lepetit**
 
